@@ -120,7 +120,7 @@ function Contact() {
 
 
       <a
-        href="https://github.com/AnishInGit"
+        href="https://github.com/Sudhir183940/"
         target="_blank"
         rel="noopener noreferrer"
         className="w-12 h-12 flex items-center justify-center border-2 border-[#0ef] rounded-full text-[#0ef] hover:bg-[#0ef] hover:text-black shadow-lg hover:shadow-[0px_5px_30px_15px_rgba(0,255,255,0.4)] transition"
@@ -128,7 +128,7 @@ function Contact() {
         <i className="bx bxl-github bx-md"></i>
       </a>
       <a
-  href="https://leetcode.com/u/maityanish2003/"
+  href=" "
   target="_blank"
   rel="noopener noreferrer"
   className="w-12 h-12 p-1 flex items-center justify-center border-2 border-[#0ef] rounded-full text-[#0ef] hover:bg-[#0ef] hover:text-black shadow-lg hover:shadow-[0px_5px_30px_15px_rgba(0,255,255,0.4)] transition group"
@@ -162,7 +162,7 @@ function Contact() {
       </a>
 
       <a
-        href="https://x.com/AnishMa42655012"
+        href=" "
         target="_blank"
         rel="noopener noreferrer"
         className="w-12 h-12 flex items-center justify-center border-2 border-[#0ef] rounded-full text-[#0ef] hover:bg-[#0ef] hover:text-black shadow-lg hover:shadow-[0px_5px_30px_15px_rgba(0,255,255,0.4)] transition"
@@ -172,7 +172,7 @@ function Contact() {
   
           </div>
           <a
-          href="https://drive.google.com/file/d/1L2nO6SF4IlQRKGTADixGEJq8GxFKXt3T/view?usp=sharing"
+          href="https://drive.google.com/file/d/1Qtd7M3ukrschZjAsyyXx0JSYnlZURmjK/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block lg:ml-10 mt-6 lg:text-sm sm:text-2xl text-center  px-4 py-2 md:px-6 md:py-3 bg-[#0ef] text-[#081b29] font-semibold shadow-2xl rounded-full hover:shadow-[10px_5px_60px_25px_rgba(0,255,255,0.4)] transition"
