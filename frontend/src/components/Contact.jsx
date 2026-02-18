@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import { API_BASE_URL } from '../environment';
 import ScrollAnimation from "react-animate-on-scroll";
 import "animate.css/animate.min.css";
 
@@ -33,7 +34,7 @@ function Contact() {
     };
 
     try {
-      const response = await axios.post('https://myportfoliobackend-1974.onrender.com/api/postmessage', contactData);
+      const response = await axios.post(`${API_BASE_URL}/api/postmessage`, contactData);
       
       if (response) {
           setUploadStatus('success'); // Set success status
