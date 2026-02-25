@@ -37,7 +37,7 @@ const Projects = () => {
       description: "A portfolio website built to showcase individual skills, projects, and accomplishments in a professional and captivating manner. It provides a comprehensive platform to demonstrate expertise, share creative work, and connect with a wider audience and explore new opportunities.", 
       color: "9C27B0", 
       techs: ["TailwindCSS", "ReactJs", ], 
-      src: "https://github.com/Sudhir183940/my-portfolio" },
+      src: "https://yudh.onrender.com/" },
   ];
   return (
     <section id="project" className="sm:pt-10 lg:pt-0">
