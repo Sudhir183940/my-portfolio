@@ -25,7 +25,7 @@ const Projects = () => {
       description: "The Weather App is a responsive web application that provides real-time weather information for any location. It features a clean, intuitive interface with current weather conditions, forecasts, and interactive maps.", 
       color: "FF5F1F", 
       techs: ["Node.js", "React.js","OpenWeatherMap API" ], 
-      src: "https://github.com/Sudhir183940/weather.app" },
+      src: "https://syudh.onrender.com/" },
     
     { title: "SK.News Website", 
       description: "A News application designed to keep you updated with the latest news from around the world. It offers a clean, responsive design and an engaging user experience for easy access to current events.", 
