@@ -69,7 +69,7 @@ const Home = () => {
       SUDHIR KUMAR
     </h1>
     <h4 className={`text-xl sm:text-3xl font-bold text-white mt-4  ${isVisible ? "animate__animated animate__fadeInUp" : ""}`}>
-      I'm Full Stack Web Dveloper I build scalable, <br />
+      I'm Full Stack Web Developer I build scalable, <br />
       responsive,user-friendly web applications. <br/>
       {" "}
       <span className="text-cyan-400 text-2xl sm:text-4xl animate__delay-2s " ref={textRef}></span>
